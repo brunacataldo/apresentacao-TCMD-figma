@@ -1,0 +1,12 @@
+Para iniciar um novo repositório: git init
+ele cria um subdiretório no seu workspace
+
+Para clonar um repositório: git clone
+
+Para criar uma nova branch: git checkout -b <nome-da-branch>
+
+Para adicionar as novas alterações feitas no seu código atual: git add.
+
+Para salvar essas informações: git commit -m "seu comentário"
+
+Para salvar no repositório do github: git push origin <nome-da-branch>
